@@ -1,0 +1,6 @@
+{
+    "name": "nepalesenoob/telegram-proxy",
+    "description": "A simple PHP proxy to forward quiz polls to the Telegram API.",
+    "type": "project",
+    "license": "MIT"
+}
