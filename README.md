@@ -17,8 +17,8 @@ This is a simple PHP micro-service designed to be deployed on a platform like Re
 
 | Key | Value |
 | --- | --- |
-| `TELEGRAM_BOT_TOKEN` | `8031503448:AAHF-aSDI27LJ72rJ_hKU9u97D15uyKx5qg` (Your Bot Token) |
-| `TELEGRAM_CHAT_ID` | `-1002712395963` (Your Target Chat ID) |
+| `TELEGRAM_BOT_TOKEN` | `8031503448:AAHF-aSDI27LJ72rJ_hlU9u97D15uyKx5qg` (Your Bot Token) |
+| `TELEGRAM_CHAT_ID` | `-1002712394963` (Your Target Chat ID) |
 
 ## API Endpoint
 
